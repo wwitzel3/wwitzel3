@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linuxlab.sh/@wwitzel3](https://linuxlab.sh/@wwitzel3)
+<a rel="me" href="https://linuxlab.sh/@wwitzel3" />
